@@ -25,7 +25,7 @@ The latest version is available on Maven Central:
 <dependency>
   <groupId>com.jeff-media</groupId>
   <artifactId>armor-equip-event</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3-SNAPSHOT</version>
   <scope>compile</scope>
 </dependency>
 ```
